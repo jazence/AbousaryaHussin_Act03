@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    background-color: #a05353;
+    background-color: #3EB489;
     color:  rgb(2, 9, 105);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 16px;
@@ -24,7 +24,7 @@ body{
     height: 100%;
     border:1px solid rgb(116, 0, 0);
     box-shadow: 0 0 20px 0 rgb(141, 1, 1);
-    background-color: rgb(0, 0, 102);
+    background-color: rgb(0, 0, 0);
     padding: 15px;
 }
 
@@ -59,7 +59,7 @@ nav ul{
 }
 
 #navbar a{
-    color: rgb(179, 255, 0);
+    color: rgb(0, 0, 200);
     text-decoration: none;
     font-size: 20px;
 }
